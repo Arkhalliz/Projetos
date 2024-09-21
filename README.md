@@ -1,2 +1,2 @@
-# Projetos que eu fiz, e estou praticando
+# Projetos de várias linguagens que eu fiz enquanto treinava programação.
  
